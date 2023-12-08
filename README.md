@@ -1,7 +1,7 @@
 ## Hello 
 I am curently interested in distributed systems and multithreading syncronization, including:
 ### Distributed systems
-- Consensus algorithms
+- Consensus algorithms (Eventually want to write own custom Multi-Decree Paxos)
 - Deterministic execution
 ### Concurrency
 + Some interest in structured concurrency for future perspective
