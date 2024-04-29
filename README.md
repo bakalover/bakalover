@@ -1,8 +1,8 @@
-### Interests
-+ Distributed Systems
+## Interests
++ Distributed Systems:
     - Consensus
     - Byzantine Fault Tolerance
     - Distributed Transactions
     - Deterministic Simulation
-+ Concurrency
++ Concurrency:
     - Structured Concurrency
